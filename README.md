@@ -8,8 +8,7 @@ This project explores workforce attrition patterns across key employee dimension
 
 ## Executive Dashboard Preview
 
-![Executive Dashboard](Screenshot 2026-09-21 150959.png)
-
+![Executive Dashboard](dashboard_screenshot.png)
 ---
 
 ## Business Problem & Objectives
