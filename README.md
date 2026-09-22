@@ -46,3 +46,18 @@ Attrition Count := CALCULATE([Total Headcount], tbl_HR_Analytics[Attrition Flag]
 
 -- Attrition Rate (%)
 Attrition Rate (%) := DIVIDE([Attrition Count], [Total Headcount], 0)
+```
+---
+## Key Business Insights
+Overtime Impact: Employees working overtime experience significantly higher turnover (~30.5%) compared to non-overtime staff (~10.4%).
+
+High-Risk Job Roles: Sales Representatives (39.76%) and Laboratory Technicians (23.94%) show the highest attrition rates across the organization.
+
+Tenure Distribution: Attrition peaks heavily during the initial employee onboarding phase (<1 Year tenure cohort at ~31.6%).
+
+## Strategic Recommendations
+Capacity & Workload Planning: Audit workload distribution in high-overtime departments to mitigate burnout.
+
+Targeted Role Retention: Re-evaluate compensation structures, career growth pathways, and day-to-day conditions for Sales Representatives and Laboratory Technicians.
+
+Onboarding Optimization: Strengthen 30-60-90 day onboarding and mentorship programs to improve early-tenure retention.
